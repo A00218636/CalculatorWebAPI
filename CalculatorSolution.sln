@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCalculator", "..\WebCalc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorIntegrationTest", "..\CalculatorIntegrationTest\CalculatorIntegrationTest.csproj", "{51454819-45D0-44A1-AA80-26A7CB15F591}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWebAPI", "..\CalculatorWebAPI\CalculatorWebAPI.csproj", "{2CCCC3FF-8A70-47DD-A1FC-E165343FD919}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{51454819-45D0-44A1-AA80-26A7CB15F591}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51454819-45D0-44A1-AA80-26A7CB15F591}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51454819-45D0-44A1-AA80-26A7CB15F591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CCCC3FF-8A70-47DD-A1FC-E165343FD919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCCC3FF-8A70-47DD-A1FC-E165343FD919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCCC3FF-8A70-47DD-A1FC-E165343FD919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCCC3FF-8A70-47DD-A1FC-E165343FD919}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
